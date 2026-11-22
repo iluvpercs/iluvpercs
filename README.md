@@ -1,4 +1,6 @@
-<h1 align="center">Hi, I'm Manii 👋</h1>
+<p align="center">
+  <img src="snow-banner.svg" width="100%"/>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sri-krishna-manikantha-s-55a666315/">
